@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
+# BELLO Augustine doing hard things>
+
 
 def magic_calculation(a, b):
     result = 0
