@@ -23,4 +23,4 @@ def pascal_triangle(n):
             temp.append(row[i] + row[i + 1])
         temp.append(1)
         triangles.append(temp)
-    return 
+    return
